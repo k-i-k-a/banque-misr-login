@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">BanqueMisrLogin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot username/ password?</string>
+    <string name="help">"Need help? "</string>
+    <string name="contact">Contact us</string>
+    <string name="products">Our products</string>
+    <string name="exchange">Exchange rate</string>
+    <string name="security">Security tips</string>
+    <string name="nearest">Nearest branch or ATM</string>
+    <string name="login">Login</string>
+    <string name="language">العربية</string>
+</resources>

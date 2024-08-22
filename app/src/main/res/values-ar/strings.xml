@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">اسم المسخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot">نسيت اسم المستخدم/كلمة المرور؟</string>
+    <string name="help">مزيد من المساعده؟ </string>
+    <string name="contact"> اتصل بنا</string>
+    <string name="products">منتجاتنا</string>
+    <string name="exchange">سعر الصرف</string>
+    <string name="security">نصائح أمنية</string>
+    <string name="nearest">اقرب فرع أو ماكينة صراف آلي</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="language">EN</string>
+</resources>
